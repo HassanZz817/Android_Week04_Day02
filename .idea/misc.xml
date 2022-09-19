@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Program Files (x86)/Projects/github/Android_Week04_Day02/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Program Files (x86)/Projects/github/Android_Week04_Day02/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Program Files (x86)/Projects/github/Android_Week04_Day02/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/Program Files (x86)/Projects/github/Android_Week04_Day02/app/src/main/res/layout/fragment_user.xml" value="0.1" />
         <entry key="..\:/Users/tfsha/AndroidStudioProjects/Week04Day02/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1485" />
         <entry key="..\:/Users/tfsha/AndroidStudioProjects/Week04Day02/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/tfsha/AndroidStudioProjects/Week04Day02/app/src/main/res/layout/fragment_home.xml" value="0.1" />
